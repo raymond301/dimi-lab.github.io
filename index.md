@@ -1,7 +1,6 @@
 ---
 ---
 
-# DIMI-Lab's Website
 
 DIMI lab: Data science and Informatics for Multiomics Integration.
 
