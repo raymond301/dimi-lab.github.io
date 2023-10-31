@@ -5,31 +5,24 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Team Members
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are a cross-disciplinary team with diverse background. Click on the portrait to know more about each member. 
 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc2" %}
+{% include list.html data="members" component="portrait" filters="role: bioinformatician" %}
+{% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include list.html data="members" component="portrait" filters="role: pathologist" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+# {% include icon.html icon="fa-solid fa-users" %} Team Events
 {% include section.html %}
+Visiting Argonne National Laboratory. Chicago, IL.
+{% include figure.html image="images/events/Argonne.png" %}
+Social meeting. Rochester, MN.
+{% include figure.html image="images/events/social1.jpg" %}
+Visiting wet labs. Rochester, MN.
+{% include figure.html image="images/events/wet_lab.png" %}
 
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}

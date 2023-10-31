@@ -1,155 +1,1941 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- title: Batch-effect correction with sample remeasurement in highly confounded case-control
+    studies
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Hanxuan Ye
+  - Xianyang Zhang
+  - Chen Wang
+  - Ellen L. Goode
+  - Jun Chen
+  publisher: Nature Computational Science
+  date: '2023-08-23'
+  link: https://doi.org/gs2694
+  id: doi:10.1038/s43588-023-00500-8
+  orcid: 0000-0003-2638-3081
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- title: Data from Methylation Signature Implicated in Immuno-Suppressive Activities
+    in Tubo-Ovarian High-Grade Serous Carcinoma
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Chen Wang
+  - Matthew S. Block
+  - Julie M. Cunningham
+  - Mark E. Sherman
+  - Bryan M. McCauley
+  - Sebastian M. Armasu
+  - Robert A. Vierkant
+  - Nadia Traficante
+  - Aline Talhouk
+  - Susan J. Ramus
+  - Nadja Pejovic
+  - "Martin K\xF6bel"
+  - Brooke D. Jorgensen
+  - Dale W. Garsed
+  - Sian Fereday
+  - Jennifer A. Doherty
+  - Dinuka Ariyaratne
+  - Michael S. Anglesio
+  - Martin Widschwendter
+  - Tanja Pejovic
+  - Jesus Gonzalez Bosquet
+  - David D. Bowtell
+  - Stacey J. Winham
+  - Ellen L. Goode
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-03'
+  link: https://doi.org/gs2695
+  id: doi:10.1158/1055-9965.c.6534651.v1
+  orcid: 0000-0003-2638-3081
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- title: Data from Methylation Signature Implicated in Immuno-Suppressive Activities
+    in Tubo-Ovarian High-Grade Serous Carcinoma
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Chen Wang
+  - Matthew S. Block
+  - Julie M. Cunningham
+  - Mark E. Sherman
+  - Bryan M. McCauley
+  - Sebastian M. Armasu
+  - Robert A. Vierkant
+  - Nadia Traficante
+  - Aline Talhouk
+  - Susan J. Ramus
+  - Nadja Pejovic
+  - "Martin K\xF6bel"
+  - Brooke D. Jorgensen
+  - Dale W. Garsed
+  - Sian Fereday
+  - Jennifer A. Doherty
+  - Dinuka Ariyaratne
+  - Michael S. Anglesio
+  - Martin Widschwendter
+  - Tanja Pejovic
+  - Jesus Gonzalez Bosquet
+  - David D. Bowtell
+  - Stacey J. Winham
+  - Ellen L. Goode
+  publisher: American Association for Cancer Research (AACR)
+  date: '2023-04-03'
+  link: https://doi.org/gs2696
+  id: doi:10.1158/1055-9965.c.6534651
+  orcid: 0000-0003-2638-3081
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- title: Methylation Signature Implicated in Immuno-Suppressive Activities in Tubo-Ovarian
+    High-Grade Serous Carcinoma
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Chen Wang
+  - Matthew S. Block
+  - Julie M. Cunningham
+  - Mark E. Sherman
+  - Bryan M. McCauley
+  - Sebastian M. Armasu
+  - Robert A. Vierkant
+  - Nadia Traficante
+  - Aline Talhouk
+  - Susan J. Ramus
+  - Nadja Pejovic
+  - "Martin K\xF6bel"
+  - Brooke D. Jorgensen
+  - Dale W. Garsed
+  - Sian Fereday
+  - Jennifer A. Doherty
+  - Dinuka Ariyaratne
+  - Michael S. Anglesio
+  - Martin Widschwendter
+  - Tanja Pejovic
+  - Jesus Gonzalez Bosquet
+  - David D. Bowtell
+  - Stacey J. Winham
+  - Ellen L. Goode
+  publisher: Cancer Epidemiology, Biomarkers &amp; Prevention
+  date: '2023-02-15'
+  link: https://doi.org/gs2697
+  id: doi:10.1158/1055-9965.EPI-22-0941
+  orcid: 0000-0003-2638-3081
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- title: "Multiplex Immunofluorescence Image Quality Checking Using DAPI Channel\u2013\
+    referenced Evaluation"
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Jun Jiang
+  - Raymond Moore
+  - Clarissa E. Jordan
+  - Ruifeng Guo
+  - Rachel L. Maus
+  - Hongfang Liu
+  - Ellen Goode
+  - Svetomir N. Markovic
+  - Chen Wang
+  publisher: Journal of Histochemistry &amp; Cytochemistry
+  date: '2023-03-01'
+  link: https://doi.org/gs27cv
+  id: doi:10.1369/00221554231161693
+  orcid: 0000-0003-2638-3081
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- title: 'PO2RDF: representation of real-world data for precision oncology using resource
+    description framework'
   authors:
-  - David N. Nicholson
+  - Yiqing Zhao
+  - Anastasios Dimou
+  - Feichen Shen
+  - Nansu Zong
+  - Jaime I. Davila
+  - Hongfang Liu
+  - Chen Wang
+  publisher: BMC Medical Genomics
+  date: '2022-07-30'
+  link: https://doi.org/gs27dq
+  id: doi:10.1186/s12920-022-01314-9
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Leveraging a pharmacogenomics knowledgebase to formulate a drug response
+    phenotype terminology for genomic medicine
+  authors:
+  - Yiqing Zhao
+  - Matthew Brush
+  - Chen Wang
+  - Alex H Wagner
+  - Hongfang Liu
+  - Robert R Freimuth
+  publisher: Bioinformatics
+  date: '2022-10-12'
+  link: https://doi.org/gs27d7
+  id: doi:10.1093/bioinformatics/btac646
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: "SHP2 inhibition enhances Yes-associated protein\u2013mediated liver regeneration\
+    \ in murine partial hepatectomy models"
+  authors:
+  - Ryan D. Watkins
+  - EeeLN H. Buckarma
+  - Jennifer L. Tomlinson
+  - Chantal E. McCabe
+  - Jennifer A. Yonkus
+  - Nathan W. Werneburg
+  - Rachel L. Bayer
+  - Patrick P. Starlinger
+  - Keith D. Robertson
+  - Chen Wang
+  - Gregory J. Gores
+  - Rory L. Smoot
+  publisher: JCI Insight
+  date: '2022-08-08'
+  link: https://doi.org/gssz9z
+  id: doi:10.1172/jci.insight.159930
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: DNA Methylation Profiles of Ovarian Clear Cell Carcinoma
+  authors:
+  - Julie M. Cunningham
+  - Stacey J. Winham
+  - Chen Wang
+  - Britta Weiglt
+  - Zhuxuan Fu
+  - Sebastian M. Armasu
+  - Bryan M. McCauley
+  - Alison H. Brand
+  - Yoke-Eng Chiew
+  - Esther Elishaev
+  - Charlie Gourley
+  - Catherine J. Kennedy
+  - Angela Laslavic
+  - Jenny Lester
+  - Anna Piskorz
+  - Magdalena Sekowska
+  - James D. Brenton
+  - Michael Churchman
+  - Anna DeFazio
+  - Ronny Drapkin
+  - Kevin M. Elias
+  - David G. Huntsman
+  - Beth Y. Karlan
+  - "Martin K\xF6bel"
+  - Jason Konner
+  - Kate Lawrenson
+  - Elli Papaemmanuil
+  - Kelly L. Bolton
+  - Francesmary Modugno
+  - Ellen L. Goode
+  publisher: Cancer Epidemiology, Biomarkers &amp; Prevention
+  date: '2022-01-01'
+  link: https://doi.org/gs27fz
+  id: doi:10.1158/1055-9965.EPI-21-0677
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Excerno: Filtering Mutations Caused by the Clinical Archival Process in
+    Sequencing Data'
+  authors:
+  - Audrey Mitchell
+  - Marco Ruiz
+  - Soua Yang
+  - Chen Wang
+  - Jaime Davila
+  publisher: Computational Advances in Bio and Medical Sciences
+  date: '2022-01-01'
+  link: https://doi.org/gs27f2
+  id: doi:10.1007/978-3-031-17531-2_3
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Generating real-world evidence from unstructured clinical notes to examine
+    clinical utility of genetic tests: use case in BRCAness'
+  authors:
+  - Yiqing Zhao
+  - Saravut J. Weroha
+  - Ellen L. Goode
+  - Hongfang Liu
+  - Chen Wang
+  publisher: BMC Medical Informatics and Decision Making
+  date: '2021-01-06'
+  link: https://doi.org/gpfxwk
+  id: doi:10.1186/s12911-020-01364-y
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Semi-Supervised Topological Analysis for Elucidating Hidden Structures in
+    High-Dimensional Transcriptome Datasets
+  authors:
+  - Tianshu Feng
+  - Jaime I. Davila
+  - Yuanhang Liu
+  - Sangdi Lin
+  - Shuai Huang
+  - Chen Wang
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2021-07-01'
+  link: https://doi.org/gnfchb
+  id: doi:10.1109/TCBB.2019.2950657
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Leveraging Genetic Reports and Electronic Health Records for the Prediction
+    of Primary Cancers: Algorithm Development and Validation Study'
+  authors:
+  - Nansu Zong
+  - Victoria Ngo
+  - Daniel J Stone
+  - Andrew Wen
+  - Yiqing Zhao
+  - Yue Yu
+  - Sijia Liu
+  - Ming Huang
+  - Chen Wang
+  - Guoqian Jiang
+  publisher: JMIR Medical Informatics
+  date: '2021-05-25'
+  link: https://doi.org/gndr2b
+  id: doi:10.2196/23586
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'PO2RDF: Representation of Real-world Data for Precision Oncology Using Resource
+    Description Framework'
+  authors:
+  - Yiqing ZHAO
+  - Anastasios Dimou
+  - Feichen Shen
+  - Nansu Zong
+  - Jaime I. Davila
+  - Hongfang Liu
+  - Chen Wang
+  publisher: Research Square Platform LLC
+  date: '2021-02-11'
+  link: https://doi.org/gs27f5
+  id: doi:10.21203/rs.3.rs-219654/v1
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Generating Real-world Evidence from Unstructured Clinical Notes to Examine
+    Clinical Utility of Genetic Tests: Use Case in BRCAness'
+  authors:
+  - Yiqing ZHAO
+  - Saravut J Weroha
+  - Ellen Goode
+  - Hongfang Liu
+  - Chen Wang
+  publisher: Research Square Platform LLC
+  date: '2020-12-17'
+  link: https://doi.org/gs27f6
+  id: doi:10.21203/rs.3.rs-41553/v3
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Development and Validation of the Gene Expression Predictor of High-grade
+    Serous Ovarian Carcinoma Molecular SubTYPE (PrOTYPE)
+  authors:
+  - Aline Talhouk
+  - Joshy George
+  - Chen Wang
+  - Timothy Budden
+  - Tuan Zea Tan
+  - Derek S. Chiu
+  - Stefan Kommoss
+  - Huei San Leong
+  - Stephanie Chen
+  - Maria P. Intermaggio
+  - Blake Gilks
+  - Tayyebeh M. Nazeran
+  - Mila Volchek
+  - Wafaa Elatre
+  - Rex C. Bentley
+  - Janine Senz
+  - Amy Lum
+  - Veronica Chow
+  - Hanwei Sudderuddin
+  - Robertson Mackenzie
+  - Samuel C.Y. Leong
+  - Geyi Liu
+  - Dustin Johnson
+  - Billy Chen
+  - AOCS Group
+  - Jennifer Alsop
+  - Susana N. Banerjee
+  - Sabine Behrens
+  - Clara Bodelon
+  - Alison H. Brand
+  - Louise Brinton
+  - Michael E. Carney
+  - Yoke-Eng Chiew
+  - Kara L. Cushing-Haugen
+  - Cezary Cybulski
+  - Darren Ennis
+  - Sian Fereday
+  - "Ren\xE9e T. Fortner"
+  - "Jes\xFAs Garc\xEDa-Donas"
+  - Aleksandra Gentry-Maharaj
+  - Rosalind Glasspool
+  - Teodora Goranova
   - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
+  - Paul Haluska
+  - Holly R. Harris
+  - Joy Hendley
+  - Brenda Y. Hernandez
+  - Esther Herpel
+  - Mercedes Jimenez-Linan
+  - Chloe Karpinskyj
+  - Scott H. Kaufmann
+  - Gary L. Keeney
+  - Catherine J. Kennedy
+  - "Martin K\xF6bel"
+  - Jennifer M. Koziak
+  - Melissa C. Larson
+  - Jenny Lester
+  - Liz-Anne Lewsley
+  - Jolanta Lissowska
+  - "Jan Lubi\u0144ski"
+  - Hugh Luk
+  - Geoff Macintyre
+  - Sven Mahner
+  - Iain A. McNeish
+  - Janusz Menkiszak
+  - Nikilyn Nevins
+  - Ana Osorio
+  - Oleg Oszurek
+  - "Jos\xE9 Palacios"
+  - Samantha Hinsley
+  - Celeste L. Pearce
+  - Malcolm C. Pike
+  - Anna M. Piskorz
+  - Isabelle Ray-Coquard
+  - Valerie Rhenius
+  - Cristina Rodriguez-Antona
+  - Raghwa Sharma
+  - Mark E. Sherman
+  - Dilrini De Silva
+  - Naveena Singh
+  - Peter Sinn
+  - Dennis Slamon
+  - Honglin Song
+  - Helen Steed
+  - Euan A. Stronach
+  - Pamela J. Thompson
+  - "Aleksandra To\u0142oczko"
+  - Britton Trabert
+  - Nadia Traficante
+  - Chiu-Chen Tseng
+  - Martin Widschwendter
+  - Lynne R. Wilkens
+  - Stacey J. Winham
+  - Boris Winterhoff
+  - Alicia Beeghly-Fadiel
+  - Javier Benitez
+  - Andrew Berchuck
+  - James D. Brenton
+  - Robert Brown
+  - Jenny Chang-Claude
+  - Georgia Chenevix-Trench
+  - Anna deFazio
+  - Peter A. Fasching
+  - "Mar\xEDa J. Garc\xEDa"
+  - Simon A. Gayther
+  - Marc T. Goodman
+  - Jacek Gronwald
+  - Michelle J. Henderson
+  - Beth Y. Karlan
+  - Linda E. Kelemen
+  - Usha Menon
+  - Sandra Orsulic
+  - Paul D.P. Pharoah
+  - Nicolas Wentzensen
+  - Anna H. Wu
+  - Joellen M. Schildkraut
+  - Mary Anne Rossing
+  - Gottfried E. Konecny
+  - David G. Huntsman
+  - Ruby Yun-Ju Huang
+  - Ellen L. Goode
+  - Susan J. Ramus
+  - Jennifer A. Doherty
+  - David D. Bowtell
+  - Michael S. Anglesio
+  publisher: Clinical Cancer Research
+  date: '2020-10-15'
+  link: https://doi.org/gg7qrq
+  id: doi:10.1158/1078-0432.CCR-20-0103
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: The YAP-Interacting Phosphatase SHP2 Can Regulate Transcriptional Coactivity
+    and Modulate Sensitivity to Chemotherapy in Cholangiocarcinoma
+  authors:
+  - EeeLN H. Buckarma
+  - Nathan W. Werneburg
+  - Caitlin B. Conboy
+  - Ayano Kabashima
+  - Daniel R. O'Brien
+  - Chen Wang
+  - Sumera Rizvi
+  - Rory L. Smoot
+  publisher: Molecular Cancer Research
+  date: '2020-10-01'
+  link: https://doi.org/gss2cq
+  id: doi:10.1158/1541-7786.MCR-20-0165
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Generating Real-world Evidence from Unstructured Clinical Notes to Examine
+    Clinical Utility of Genetic Tests: Use Case in BRCAness'
+  authors:
+  - Yiqing ZHAO
+  - Saravut J Weroha
+  - Ellen Goode
+  - Hongfang Liu
+  - Chen Wang
+  publisher: Research Square Platform LLC
+  date: '2020-09-18'
+  link: https://doi.org/gs27f7
+  id: doi:10.21203/rs.3.rs-41553/v2
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Targeting tumor-associated macrophages and granulocytic myeloid-derived suppressor
+    cells augments PD-1 blockade in cholangiocarcinoma
+  authors:
+  - Emilien Loeuillard
+  - Jingchun Yang
+  - EeeLN Buckarma
+  - Juan Wang
+  - Yuanhang Liu
+  - Caitlin Conboy
+  - Kevin D. Pavelko
+  - Ying Li
+  - "Daniel O\u2019Brien"
+  - Chen Wang
+  - Rondell P. Graham
+  - Rory L. Smoot
+  - Haidong Dong
+  - Sumera Ilyas
+  publisher: Journal of Clinical Investigation
+  date: '2020-09-14'
+  link: https://doi.org/ghq9wz
+  id: doi:10.1172/JCI137110
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Leveraging Genetic Reports and Electronic Health Records for the Prediction
+    of Primary Cancers: Algorithm Development and Validation Study (Preprint)'
+  authors:
+  - Nansu Zong
+  - Victoria Ngo
+  - Daniel J Stone
+  - Andrew Wen
+  - Yiqing Zhao
+  - Yue Yu
+  - Sijia Liu
+  - Ming Huang
+  - Chen Wang
+  - Guoqian Jiang
+  publisher: JMIR Publications Inc.
+  date: '2020-08-17'
+  link: https://doi.org/gs27f8
+  id: doi:10.2196/preprints.23586
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Generating Real-World Evidence from Unstructured Clinical Notes to Examine
+    Clinical Utility of Genetic Tests: Use Case in BRCAness'
+  authors:
+  - Yiqing ZHAO
+  - Saravut J Weroha
+  - Ellen Goode
+  - Hongfang Liu
+  - Chen Wang
+  publisher: Research Square Platform LLC
+  date: '2020-07-21'
+  link: https://doi.org/gs27f9
+  id: doi:10.21203/rs.3.rs-41553/v1
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Combining copy number, methylation markers, and mutations as a panel for
+    endometrial cancer detection via intravaginal tampon collection
+  authors:
+  - Ajleeta Sangtani
+  - Chen Wang
+  - Amy Weaver
+  - Nicole L. Hoppman
+  - Sarah E. Kerr
+  - Alexej Abyzov
+  - Viji Shridhar
+  - Julie Staub
+  - Jean-Pierre A. Kocher
+  - Jesse S. Voss
+  - Karl C. Podratz
+  - Nicolas Wentzensen
+  - John B. Kisiel
+  - Mark E. Sherman
+  - Jamie N. Bakkum-Gamez
+  publisher: Gynecologic Oncology
+  date: '2020-02-01'
+  link: https://doi.org/gs27gb
+  id: doi:10.1016/j.ygyno.2019.11.028
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: "Dilution of Molecular\u2013Pathologic Gene Signatures by Medically Associated\
+    \ Factors Might Prevent Prediction of Resection Status After Debulking Surgery\
+    \ in Patients With Advanced Ovarian Cancer"
+  authors:
+  - Florian Heitz
+  - Stefan Kommoss
+  - Roshan Tourani
+  - Anthony Grandelis
+  - Locke Uppendahl
+  - Constantin Aliferis
+  - Alexander Burges
+  - Chen Wang
+  - Ulrich Canzler
+  - Jinhua Wang
+  - Antje Belau
+  - Sonia Prader
+  - Lars Hanker
+  - Sisi Ma
+  - Beyhan Ataseven
+  - Felix Hilpert
+  - Stephanie Schneider
+  - Jalid Sehouli
+  - Rainer Kimmig
+  - Christian Kurzeder
+  - Barbara Schmalfeldt
+  - Elena I. Braicu
+  - Philipp Harter
+  - Sean C. Dowdy
+  - Boris J. Winterhoff
+  - Jacobus Pfisterer
+  - Andreas du Bois
+  publisher: Clinical Cancer Research
   date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  link: https://doi.org/gs27gc
+  id: doi:10.1158/1078-0432.CCR-19-1741
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Genes associated with bowel metastases in ovarian cancer
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Andrea Mariani
+  - Chen Wang
+  - Ann L. Oberg
+  - Shaun M. Riska
+  - Michelle Torres
+  - Joseph Kumka
+  - Francesco Multinu
+  - Gunisha Sagar
+  - Debarshi Roy
+  - "Deok\u2013Beom Jung"
+  - Qing Zhang
+  - Tommaso Grassi
+  - Daniel W. Visscher
+  - Vatsal P. Patel
+  - Ling Jin
+  - Julie K. Staub
+  - William A. Cliby
+  - Saravut J. Weroha
+  - Kimberly R. Kalli
+  - Lynn C. Hartmann
+  - Scott H. Kaufmann
+  - Ellen L. Goode
+  - Viji Shridhar
+  publisher: Gynecologic Oncology
+  date: '2019-09-01'
+  link: https://doi.org/gs27gd
+  id: doi:10.1016/j.ygyno.2019.06.010
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Use of FFPE-derived DNA in next generation sequencing: DNA extraction methods'
+  authors:
+  - Samantha J. McDonough
+  - Aditya Bhagwate
+  - Zhifu Sun
+  - Chen Wang
+  - Michael Zschunke
+  - Joshua A. Gorman
+  - Karla J. Kopp
+  - Julie M. Cunningham
+  publisher: PLOS ONE
+  date: '2019-04-11'
+  link: https://doi.org/gs23dz
+  id: doi:10.1371/journal.pone.0211400
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Cancer-associated stroma significantly contributes to the mesenchymal subtype
+    signature of serous ovarian cancer
+  authors:
+  - Qing Zhang
+  - Chen Wang
+  - William A. Cliby
+  publisher: Gynecologic Oncology
+  date: '2019-02-01'
+  link: https://doi.org/gqjcvq
+  id: doi:10.1016/j.ygyno.2018.11.014
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Mesenchymal molecular subtype is an independent predictor of severe postoperative
+    complications after primary debulking surgery for advanced ovarian cancer
+  authors:
+  - Diogo Torres
+  - Amanika Kumar
+  - Jamie N. Bakkum-Gamez
+  - Amy L. Weaver
+  - Michaela E. McGree
+  - Chen Wang
+  - Carrie L. Langstraat
+  - William A. Cliby
+  publisher: Gynecologic Oncology
+  date: '2019-02-01'
+  link: https://doi.org/gs27gf
+  id: doi:10.1016/j.ygyno.2018.11.019
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Use of FFPE-Derived DNA in Next Generation Sequencing: DNA extraction methods'
+  authors:
+  - Samantha J. McDonough
+  - Aditya Bhagwate
+  - Zhifu Sun
+  - Chen Wang
+  - Michael Zschunke
+  - Joshua A. Gorman
+  - Karla J. Kopp
+  - Julie M. Cunningham
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-01-15'
+  link: https://doi.org/gkts7m
+  id: doi:10.1101/521534
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Factors that influence survival in high-grade serous ovarian cancer: A complex
+    relationship between molecular subtype, disease dissemination, and operability'
+  authors:
+  - Diogo Torres
+  - Chen Wang
+  - Amanika Kumar
+  - Jamie N. Bakkum-Gamez
+  - Amy L. Weaver
+  - Michaela E. McGree
+  - Gottfried E. Konecny
+  - Ellen L. Goode
+  - William A. Cliby
+  publisher: Gynecologic Oncology
+  date: '2018-08-01'
+  link: https://doi.org/gd6j39
+  id: doi:10.1016/j.ygyno.2018.06.002
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Intraperitoneal disease dissemination patterns are associated with residual
+    disease, extent of surgery, and molecular subtypes in advanced ovarian cancer
+  authors:
+  - Diogo Torres
+  - Amanika Kumar
+  - Sumer K. Wallace
+  - Jamie N. Bakkum-Gamez
+  - Gottfried E. Konecny
+  - Amy L. Weaver
+  - Michaela E. McGree
+  - Ellen L. Goode
+  - William A. Cliby
+  - Chen Wang
+  publisher: Gynecologic Oncology
+  date: '2017-12-01'
+  link: https://doi.org/gcqpdn
+  id: doi:10.1016/j.ygyno.2017.09.021
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Gene-expression signatures in ovarian cancer: Promise and challenges for
+    patient stratification'
+  authors:
+  - Gottfried E. Konecny
+  - Boris Winterhoff
+  - Chen Wang
+  publisher: Gynecologic Oncology
+  date: '2016-05-01'
+  link: https://doi.org/f8jp7t
+  id: doi:10.1016/j.ygyno.2016.01.026
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Gene expression, methylation and neuropathology correlations at progressive
+    supranuclear palsy risk loci
+  authors:
+  - Mariet Allen
+  - Jeremy D. Burgess
+  - Travis Ballard
+  - Daniel Serie
+  - Xue Wang
+  - Curtis S. Younkin
+  - Zhifu Sun
+  - Naomi Kouri
+  - Saurabh Baheti
+  - Chen Wang
+  - Minerva M. Carrasquillo
+  - Thuy Nguyen
+  - Sarah Lincoln
+  - Kimberly Malphrus
+  - Melissa Murray
+  - Todd E. Golde
+  - Nathan D. Price
+  - Steven G. Younkin
+  - Gerard D. Schellenberg
+  - Yan Asmann
+  - Tamas Ordog
+  - Julia Crook
+  - Dennis Dickson
+  - "Nil\xFCfer Ertekin-Taner"
+  publisher: Acta Neuropathologica
+  date: '2016-04-26'
+  link: https://doi.org/f8x3s6
+  id: doi:10.1007/s00401-016-1576-7
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Genes associated with histopathologic features of triple negative breast
+    tumors predict molecular subtypes
+  authors:
+  - Kristen S. Purrington
+  - Daniel W. Visscher
+  - Chen Wang
+  - Drakoulis Yannoukakos
+  - Ute Hamann
+  - Heli Nevanlinna
+  - Angela Cox
+  - Graham G. Giles
+  - Jeanette E. Eckel-Passow
+  - Sotiris Lakis
+  - Vassiliki Kotoula
+  - George Fountzilas
+  - Maria Kabisch
+  - "Thomas R\xFCdiger"
+  - "P\xE4ivi Heikkil\xE4"
+  - Carl Blomqvist
+  - Simon S. Cross
+  - Melissa C. Southey
+  - Janet E. Olson
+  - Judy Gilbert
+  - Sandra Deming-Halverson
+  - Veli-Matti Kosma
+  - Christine Clarke
+  - Rodney Scott
+  - J. Louise Jones
+  - Wei Zheng
+  - Arto Mannermaa
+  - Diana M. Eccles
+  - Celine M. Vachon
+  - Fergus J. Couch
+  publisher: Breast Cancer Research and Treatment
+  date: '2016-04-15'
+  link: https://doi.org/f8mmcp
+  id: doi:10.1007/s10549-016-3775-2
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Molecular classification of high grade endometrioid and clear cell ovarian
+    cancer using TCGA gene expression signatures
+  authors:
+  - Boris Winterhoff
+  - Habib Hamidi
+  - Chen Wang
+  - Kimberly R. Kalli
+  - Brooke L. Fridley
+  - Judy Dering
+  - Hsiao-Wang Chen
+  - William A. Cliby
+  - He-Jing Wang
+  - Sean Dowdy
+  - Bobbie S. Gostout
+  - Gary L. Keeney
+  - Ellen L. Goode
+  - Gottfried E. Konecny
+  publisher: Gynecologic Oncology
+  date: '2016-04-01'
+  link: https://doi.org/f8f7tr
+  id: doi:10.1016/j.ygyno.2016.02.023
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Gene signature model for breast cancer risk prediction for women with sclerosing
+    adenosis
+  authors:
+  - Amy C. Degnim
+  - Aziza Nassar
+  - Melody Stallings-Mann
+  - S. Keith Anderson
+  - Ann L. Oberg
+  - Robert A. Vierkant
+  - Ryan D. Frank
+  - Chen Wang
+  - Stacey J. Winham
+  - Marlene H. Frost
+  - Lynn C. Hartmann
+  - Daniel W. Visscher
+  - Derek C. Radisky
+  publisher: Breast Cancer Research and Treatment
+  date: '2015-07-23'
+  link: https://doi.org/f7ksx2
+  id: doi:10.1007/s10549-015-3513-1
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Germline polymorphisms in an enhancer of <i>PSIP1</i> are associated with
+    progression-free survival in epithelial ovarian cancer
+  authors:
+  - Juliet D. French
+  - Sharon E. Johnatty
+  - Yi Lu
+  - Jonathan Beesley
+  - Bo Gao
+  - Murugan Kalimutho
+  - Michelle J. Henderson
+  - Amanda J. Russell
+  - Siddhartha Kar
+  - Xiaoqing Chen
+  - Kristine M. Hillman
+  - Susanne Kaufmann
+  - Haran Sivakumaran
+  - "Martin O\u2019Reilly"
+  - Chen Wang
+  - Darren J. Korbie
+  - Diether Lambrechts
+  - Evelyn Despierre
+  - Els Van Nieuwenhuysen
+  - Sandrina Lambrechts
+  - Ignace Vergote
+  - Beth Karlan
+  - Jenny Lester
+  - Sandra Orsulic
+  - Christine Walsh
+  - Peter A. Fasching
+  - Matthias W. Beckmann
+  - Arif B. Ekici
+  - Alexander Hein
+  - Keitaro Matsuo
+  - Satoyo Hosono
+  - Jacobus Pisterer
+  - Peter Hillemanns
+  - Toru Nakanishi
+  - Yasushi Yatabe
+  - Marc T. Goodman
+  - Galina Lurie
+  - Rayna K. Matsuno
+  - Pamela J. Thompson
+  - Tanja Pejovic
+  - Yukie Bean
+  - Florian Heitz
+  - Philipp Harter
+  - Andreas du Bois
+  - Ira Schwaab
+  - Estrid Hogdall
+  - Susanne K. Kjaer
+  - Allan Jensen
+  - Claus Hogdall
+  - Lene Lundvall
+  - Svend Aage Engelholm
+  - Bob Brown
+  - James M. Flanagan
+  - Michelle D. Metcalf
+  - Nadeem Siddiqui
+  - Thomas Sellers
+  - Brooke Fridley
+  - Julie Cunningham
+  - Joellen M. Schildkraut
+  - Ed Iversen
+  - Rachel Palmieri Weber
+  - Donal Brennan
+  - Andrew Berchuck
+  - Paul Pharoah
+  - Paul Harnett
+  - Murray D. Norris
+  - Michelle Haber
+  - Ellen L. Goode
+  - Jason S. Lee
+  - Kum Kum Khanna
+  - Kerstin B. Meyer
+  - Georgia Chenevix-Trench
+  - Anna deFazio
+  - Stacey L. Edwards
+  - Stuart MacGregor
+  publisher: Oncotarget
+  date: '2016-01-31'
+  link: https://doi.org/gbgc4b
+  id: doi:10.18632/oncotarget.7047
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'MACE: model based analysis of ChIP-exo'
+  authors:
+  - Liguo Wang
+  - Junsheng Chen
+  - Chen Wang
+  - "Liis Uusk\xFCla-Reimand"
+  - Kaifu Chen
+  - Alejandra Medina-Rivera
+  - Edwin J. Young
+  - Michael T. Zimmermann
+  - Huihuang Yan
+  - Zhifu Sun
+  - Yuji Zhang
+  - Stephen T. Wu
+  - Haojie Huang
+  - Michael D. Wilson
+  - Jean-Pierre A. Kocher
+  - Wei Li
+  publisher: Nucleic Acids Research
+  date: '2014-09-23'
+  link: https://doi.org/f8k75g
+  id: doi:10.1093/nar/gku846
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Prognostic and Therapeutic Relevance of Molecular Subtypes in High-Grade
+    Serous Ovarian Cancer
+  authors:
+  - Gottfried E. Konecny
+  - Chen Wang
+  - Habib Hamidi
+  - Boris Winterhoff
+  - Kimberly R. Kalli
+  - Judy Dering
+  - Charles Ginther
+  - Hsiao-Wang Chen
+  - Sean Dowdy
+  - William Cliby
+  - Bobbie Gostout
+  - Karl C. Podratz
+  - Gary Keeney
+  - He-Jing Wang
+  - Lynn C. Hartmann
+  - Dennis J. Slamon
+  - Ellen L. Goode
+  publisher: 'JNCI: Journal of the National Cancer Institute'
+  date: '2014-09-30'
+  link: https://doi.org/gkz4st
+  id: doi:10.1093/jnci/dju249
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'PatternCNV: a versatile tool for detecting copy number changes from exome
+    sequencing data'
+  authors:
+  - Chen Wang
+  - Jared M. Evans
+  - Aditya V. Bhagwate
+  - Naresh Prodduturi
+  - Vivekananda Sarangi
+  - Mridu Middha
+  - Hugues Sicotte
+  - Peter T. Vedell
+  - Steven N. Hart
+  - Gavin R. Oliver
+  - Jean-Pierre A. Kocher
+  - Matthew J. Maurer
+  - Anne J. Novak
+  - Susan L. Slager
+  - James R. Cerhan
+  - Yan W. Asmann
+  publisher: Bioinformatics
+  date: '2014-05-29'
+  link: https://doi.org/f6j6tn
+  id: doi:10.1093/bioinformatics/btu363
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'RVboost: RNA-seq variants prioritization using a boosting method'
+  authors:
+  - Chen Wang
+  - Jaime I. Davila
+  - Saurabh Baheti
+  - Aditya V. Bhagwate
+  - Xue Wang
+  - Jean-Pierre A. Kocher
+  - Susan L. Slager
+  - Andrew L. Feldman
+  - Anne J. Novak
+  - James R. Cerhan
+  - E. Aubrey Thompson
+  - Yan W. Asmann
+  publisher: Bioinformatics
+  date: '2014-08-27'
+  link: https://doi.org/f6r7s5
+  id: doi:10.1093/bioinformatics/btu577
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Tumor Hypomethylation at 6p21.3 Associates with Longer Time to Recurrence
+    of High-Grade Serous Epithelial Ovarian Cancer
+  authors:
+  - Chen Wang
+  - Mine S. Cicek
+  - Bridget Charbonneau
+  - Kimberly R. Kalli
+  - Sebastian M. Armasu
+  - Melissa C. Larson
+  - Gottfried E. Konecny
+  - Boris Winterhoff
+  - Jian-Bing Fan
+  - Marina Bibikova
+  - Jeremy Chien
+  - Viji Shridhar
+  - Matthew S. Block
+  - Lynn C. Hartmann
+  - Daniel W. Visscher
+  - Julie M. Cunningham
+  - Keith L. Knutson
+  - Brooke L. Fridley
+  - Ellen L. Goode
+  publisher: Cancer Research
+  date: '2014-05-29'
+  link: https://doi.org/f56jr2
+  id: doi:10.1158/0008-5472.CAN-13-3198
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: "Large-Scale Evaluation of Common Variation in Regulatory T Cell\u2013Related\
+    \ Genes and Ovarian Cancer Outcome"
+  authors:
+  - Bridget Charbonneau
+  - Kirsten B. Moysich
+  - Kimberly R. Kalli
+  - Ann L. Oberg
+  - Robert A. Vierkant
+  - Zachary C. Fogarty
+  - Matthew S. Block
+  - Matthew J. Maurer
+  - Krista M. Goergen
+  - Brooke L. Fridley
+  - Julie M. Cunningham
+  - David N. Rider
+  - Claudia Preston
+  - Lynn C. Hartmann
+  - Kate Lawrenson
+  - Chen Wang
+  - Jonathan Tyrer
+  - Honglin Song
+  - Anna deFazio
+  - Sharon E. Johnatty
+  - Jennifer A. Doherty
+  - Catherine M. Phelan
+  - Thomas A. Sellers
+  - Starr M. Ramirez
+  - Allison F. Vitonis
+  - Kathryn L. Terry
+  - David Van Den Berg
+  - Malcolm C. Pike
+  - Anna H. Wu
+  - Andrew Berchuck
+  - Aleksandra Gentry-Maharaj
+  - Susan J. Ramus
+  - Brenda Diergaarde
+  - Howard Shen
+  - Allan Jensen
+  - Janusz Menkiszak
+  - Cezary Cybulski
+  - "Jan Lubi\u0144ski"
+  - Argyrios Ziogas
+  - Joseph H. Rothstein
+  - Valerie McGuire
+  - Weiva Sieh
+  - Jenny Lester
+  - Christine Walsh
+  - Ignace Vergote
+  - Sandrina Lambrechts
+  - Evelyn Despierre
+  - Montserrat Garcia-Closas
+  - Hannah Yang
+  - Louise A. Brinton
+  - Beata Spiewankiewicz
+  - Iwona K. Rzepecka
+  - Agnieszka Dansonka-Mieszkowska
+  - Petra Seibold
+  - Anja Rudolph
+  - Lisa E. Paddock
+  - Irene Orlow
+  - Lene Lundvall
+  - Sara H. Olson
+  - Claus K. Hogdall
+  - Ira Schwaab
+  - Andreas du Bois
+  - Philipp Harter
+  - James M. Flanagan
+  - Robert Brown
+  - James Paul
+  - Arif B. Ekici
+  - Matthias W. Beckmann
+  - Alexander Hein
+  - Diana Eccles
+  - Galina Lurie
+  - Laura E. Hays
+  - Yukie T. Bean
+  - Tanja Pejovic
+  - Marc T. Goodman
+  - Ian Campbell
+  - Peter A. Fasching
+  - Gottfried Konecny
+  - Stanley B. Kaye
+  - Florian Heitz
+  - Estrid Hogdall
+  - Elisa V. Bandera
+  - Jenny Chang-Claude
+  - Jolanta Kupryjanczyk
+  - Nicolas Wentzensen
+  - Diether Lambrechts
+  - Beth Y. Karlan
+  - Alice S. Whittemore
+  - Hoda Anton Culver
+  - Jacek Gronwald
+  - Douglas A. Levine
+  - Susanne K. Kjaer
+  - Usha Menon
+  - Joellen M. Schildkraut
+  - Celeste Leigh Pearce
+  - Daniel W. Cramer
+  - Mary Anne Rossing
+  - Georgia Chenevix-Trench
+  - Paul D.P. Pharoah
+  - Simon A. Gayther
+  - Roberta B. Ness
+  - Kunle Odunsi
+  - Lara E. Sucheston
+  - Keith L. Knutson
+  - Ellen L. Goode
+  publisher: Cancer Immunology Research
+  date: '2014-04-01'
+  link: https://doi.org/gkzzx3
+  id: doi:10.1158/2326-6066.CIR-13-0136
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84964312834
+  title: 'Adverse Drug Event-based Stratification of Tumor Mutations: A Case Study
+    of Breast Cancer Patients Receiving Aromatase Inhibitors'
+  publisher: AMIA ... Annual Symposium proceedings / AMIA Symposium. AMIA Symposium
+  date: '2022-05-25'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84964312834&partnerID=MN8TOARS
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Clinical Characteristics of Ovarian Cancer Classified by BRCA1, BRCA2 and
+    RAD51C Status
+  authors:
+  - J. M. Cunningham
+  - M. S. Cicek
+  - N. B. Larson
+  - J. Davila
+  - C. Wang
+  - M. C. Larson
+  - H. Song
+  - E. M. Dicks
+  - P. Harrington
+  - M. Wick
+  - B. J. Winterhoff
+  - H. Hamidi
+  - G. E. Konecny
+  - J. Chien
+  - M. Bibikova
+  - J.-B. Fan
+  - K. R. Kalli
+  - N. M. Lindor
+  - B. L. Fridley
+  - P. P. D. Pharoah
+  - E. L. Goode
+  publisher: Scientific Reports
+  date: '2014-02-07'
+  link: https://doi.org/gkz5sc
+  id: doi:10.1038/srep04026
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Genetic diversity of newly diagnosed follicular lymphoma
+  authors:
+  - Y W Asmann
+  - M J Maurer
+  - C Wang
+  - V Sarangi
+  - S M Ansell
+  - A L Feldman
+  - G S Nowakowski
+  - M Manske
+  - T Price-Troska
+  - Z-Z Yang
+  - S L Slager
+  - T M Habermann
+  - J R Cerhan
+  - A J Novak
+  publisher: Blood Cancer Journal
+  date: '2014-10-31'
+  link: https://doi.org/gb8853
+  id: doi:10.1038/bcj.2014.80
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Loss of HSulf-1 promotes altered lipid metabolism in ovarian cancer
+  authors:
+  - Debarshi Roy
+  - Susmita Mondal
+  - Chen Wang
+  - Xiaoping He
+  - Ashwani Khurana
+  - Shailendra Giri
+  - Robert Hoffmann
+  - Deok-Beom Jung
+  - Sung H Kim
+  - Eduardo N Chini
+  - Juliana Camacho Periera
+  - Clifford D Folmes
+  - Andrea Mariani
+  - Sean C Dowdy
+  - Jamie N Bakkum-Gamez
+  - Shaun M Riska
+  - Ann L Oberg
+  - Edward D Karoly
+  - Lauren N Bell
+  - Jeremy Chien
+  - Viji Shridhar
+  publisher: Cancer &amp; Metabolism
+  date: '2014-08-18'
+  link: https://doi.org/gkz64k
+  id: doi:10.1186/2049-3002-2-13
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Methylation of leukocyte DNA and ovarian cancer: relationships with disease
+    status and outcome'
+  authors:
+  - Brooke L Fridley
+  - Sebastian M Armasu
+  - Mine S Cicek
+  - Melissa C Larson
+  - Chen Wang
+  - Stacey J Winham
+  - Kimberly R Kalli
+  - Devin C Koestler
+  - David N Rider
+  - Viji Shridhar
+  - Janet E Olson
+  - Julie M Cunningham
+  - Ellen L Goode
+  publisher: BMC Medical Genomics
+  date: '2014-04-28'
+  link: https://doi.org/gb34pw
+  id: doi:10.1186/1755-8794-7-21
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Epigenome-wide ovarian cancer analysis identifies a methylation profile differentiating
+    clear-cell histology with epigenetic silencing of the HERG K+ channel
+  authors:
+  - Mine S. Cicek
+  - Devin C. Koestler
+  - Brooke L. Fridley
+  - Kimberly R. Kalli
+  - Sebastian M. Armasu
+  - Melissa C. Larson
+  - Chen Wang
+  - Stacey J. Winham
+  - Robert A. Vierkant
+  - David N. Rider
+  - Matthew S. Block
+  - Brandy Klotzle
+  - Gottfried Konecny
+  - Boris J. Winterhoff
+  - Habib Hamidi
+  - Viji Shridhar
+  - Jian-Bing Fan
+  - Daniel W. Visscher
+  - Janet E. Olson
+  - Lynn C. Hartmann
+  - Marina Bibikova
+  - Jeremy Chien
+  - Julie M. Cunningham
+  - Ellen L. Goode
+  publisher: Human Molecular Genetics
+  date: '2013-04-09'
+  link: https://doi.org/f4349x
+  id: doi:10.1093/hmg/ddt160
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Genome-Wide Association Study in BRCA1 Mutation Carriers Identifies Novel
+    Loci Associated with Breast and Ovarian Cancer Risk
+  authors:
+  - Fergus J. Couch
+  - Xianshu Wang
+  - Lesley McGuffog
+  - Andrew Lee
+  - Curtis Olswold
+  - Karoline B. Kuchenbaecker
+  - Penny Soucy
+  - Zachary Fredericksen
+  - Daniel Barrowdale
+  - Joe Dennis
+  - Mia M. Gaudet
+  - Ed Dicks
+  - Matthew Kosel
+  - Sue Healey
+  - Olga M. Sinilnikova
+  - Adam Lee
+  - "Fran\xE7ois Bacot"
+  - Daniel Vincent
+  - Frans B. L. Hogervorst
+  - Susan Peock
+  - Dominique Stoppa-Lyonnet
+  - Anna Jakubowska
+  - kConFab Investigators
+  - Paolo Radice
+  - Rita Katharina Schmutzler
+  - Susan M. Domchek
+  - Marion Piedmonte
+  - Christian F. Singer
+  - Eitan Friedman
+  - Mads Thomassen
+  - Thomas V. O. Hansen
+  - Susan L. Neuhausen
+  - Csilla I. Szabo
+  - Ignacio Blanco
+  - Mark H. Greene
+  - Beth Y. Karlan
+  - Judy Garber
+  - Catherine M. Phelan
+  - Jeffrey N. Weitzel
+  - Marco Montagna
+  - Edith Olah
+  - Irene L. Andrulis
+  - Andrew K. Godwin
+  - Drakoulis Yannoukakos
+  - David E. Goldgar
+  - Trinidad Caldes
+  - Heli Nevanlinna
+  - Ana Osorio
+  - Mary Beth Terry
+  - Mary B. Daly
+  - Elizabeth J. van Rensburg
+  - Ute Hamann
+  - Susan J. Ramus
+  - Amanda Ewart Toland
+  - Maria A. Caligo
+  - Olufunmilayo I. Olopade
+  - Nadine Tung
+  - Kathleen Claes
+  - Mary S. Beattie
+  - Melissa C. Southey
+  - Evgeny N. Imyanitov
+  - Marc Tischkowitz
+  - Ramunas Janavicius
+  - Esther M. John
+  - Ava Kwong
+  - Orland Diez
+  - "Judith Balma\xF1a"
+  - Rosa B. Barkardottir
+  - Banu K. Arun
+  - Gad Rennert
+  - Soo-Hwang Teo
+  - Patricia A. Ganz
+  - Ian Campbell
+  - Annemarie H. van der Hout
+  - Carolien H. M. van Deurzen
+  - Caroline Seynaeve
+  - "Encarna B. G\xF3mez Garcia"
+  - Flora E. van Leeuwen
+  - Hanne E. J. Meijers-Heijboer
+  - Johannes J. P. Gille
+  - Margreet G. E. M. Ausems
+  - Marinus J. Blok
+  - Marjolijn J. L. Ligtenberg
+  - Matti A. Rookus
+  - Peter Devilee
+  - Senno Verhoef
+  - Theo A. M. van Os
+  - Juul T. Wijnen
+  - Debra Frost
+  - Steve Ellis
+  - Elena Fineberg
+  - Radka Platte
+  - D. Gareth Evans
+  - Louise Izatt
+  - Rosalind A. Eeles
+  - Julian Adlard
+  - Diana M. Eccles
+  - Jackie Cook
+  - Carole Brewer
+  - Fiona Douglas
+  - Shirley Hodgson
+  - Patrick J. Morrison
+  - Lucy E. Side
+  - Alan Donaldson
+  - Catherine Houghton
+  - Mark T. Rogers
+  - Huw Dorkins
+  - Jacqueline Eason
+  - Helen Gregory
+  - Emma McCann
+  - Alex Murray
+  - Alain Calender
+  - "Agn\xE8s Hardouin"
+  - Pascaline Berthet
+  - Capucine Delnatte
+  - Catherine Nogues
+  - Christine Lasset
+  - Claude Houdayer
+  - Dominique Leroux
+  - Etienne Rouleau
+  - Fabienne Prieur
+  - Francesca Damiola
+  - Hagay Sobol
+  - Isabelle Coupier
+  - Laurence Venat-Bouvet
+  - Laurent Castera
+  - Marion Gauthier-Villars
+  - "M\xE9lanie L\xE9on\xE9"
+  - Pascal Pujol
+  - Sylvie Mazoyer
+  - Yves-Jean Bignon
+  - "El\u017Cbieta Z\u0142owocka-Per\u0142owska"
+  - Jacek Gronwald
+  - Jan Lubinski
+  - Katarzyna Durda
+  - Katarzyna Jaworska
+  - Tomasz Huzarski
+  - Amanda B. Spurdle
+  - Alessandra Viel
+  - Bernard Peissel
+  - Bernardo Bonanni
+  - Giulia Melloni
+  - Laura Ottini
+  - Laura Papi
+  - Liliana Varesco
+  - Maria Grazia Tibiletti
+  - Paolo Peterlongo
+  - Sara Volorio
+  - Siranoush Manoukian
+  - Valeria Pensotti
+  - Norbert Arnold
+  - Christoph Engel
+  - Helmut Deissler
+  - Dorothea Gadzicki
+  - Andrea Gehrig
+  - Karin Kast
+  - Kerstin Rhiem
+  - Alfons Meindl
+  - Dieter Niederacher
+  - Nina Ditsch
+  - Hansjoerg Plendl
+  - Sabine Preisler-Adams
+  - Stefanie Engert
+  - Christian Sutter
+  - Raymonda Varon-Mateeva
+  - Barbara Wappenschmidt
+  - Bernhard H. F. Weber
+  - Brita Arver
+  - Marie Stenmark-Askmalm
+  - Niklas Loman
+  - Richard Rosenquist
+  - Zakaria Einbeigi
+  - Katherine L. Nathanson
+  - Timothy R. Rebbeck
+  - Stephanie V. Blank
+  - David E. Cohn
+  - Gustavo C. Rodriguez
+  - Laurie Small
+  - Michael Friedlander
+  - Victoria L. Bae-Jump
+  - Anneliese Fink-Retter
+  - Christine Rappaport
+  - Daphne Gschwantler-Kaulich
+  - Georg Pfeiler
+  - Muy-Kheng Tea
+  - Noralane M. Lindor
+  - Bella Kaufman
+  - Shani Shimon Paluch
+  - Yael Laitman
+  - Anne-Bine Skytte
+  - Anne-Marie Gerdes
+  - Inge Sokilde Pedersen
+  - Sanne Traasdahl Moeller
+  - Torben A. Kruse
+  - Uffe Birk Jensen
+  - Joseph Vijai
+  - Kara Sarrel
+  - Mark Robson
+  - Noah Kauff
+  - Anna Marie Mulligan
+  - Gord Glendon
+  - Hilmi Ozcelik
+  - Bent Ejlertsen
+  - Finn C. Nielsen
+  - "Lars J\xF8nson"
+  - Mette K. Andersen
+  - Yuan Chun Ding
+  - Linda Steele
+  - Lenka Foretova
+  - "Alex Teul\xE9"
+  - Conxi Lazaro
+  - Joan Brunet
+  - Miquel Angel Pujana
+  - Phuong L. Mai
+  - Jennifer T. Loud
+  - Christine Walsh
+  - Jenny Lester
+  - Sandra Orsulic
+  - Steven A. Narod
+  - Josef Herzog
+  - Sharon R. Sand
+  - Silvia Tognazzo
+  - Simona Agata
+  - Tibor Vaszko
+  - Joellen Weaver
+  - Alexandra V. Stavropoulou
+  - Saundra S. Buys
+  - Atocha Romero
+  - Miguel de la Hoya
+  - "Kristiina Aittom\xE4ki"
+  - Taru A. Muranen
+  - Mercedes Duran
+  - Wendy K. Chung
+  - Adriana Lasa
+  - Cecilia M. Dorfling
+  - Alexander Miron
+  - Javier Benitez
+  - Leigha Senter
+  - Dezheng Huo
+  - Salina B. Chan
+  - Anna P. Sokolenko
+  - Jocelyne Chiquette
+  - Laima Tihomirova
+  - Tara M. Friebel
+  - Bjarni A. Agnarsson
+  - Karen H. Lu
+  - Flavio Lejbkowicz
+  - Paul A. James
+  - Per Hall
+  - Alison M. Dunning
+  - Daniel Tessier
+  - Julie Cunningham
+  - Susan L. Slager
+  - Chen Wang
+  - Steven Hart
+  - Kristen Stevens
+  - Jacques Simard
+  - Tomi Pastinen
+  - Vernon S. Pankratz
+  - Kenneth Offit
+  - Douglas F. Easton
+  - Georgia Chenevix-Trench
+  - Antonis C. Antoniou
+  publisher: PLoS Genetics
+  date: '2013-03-27'
+  link: https://doi.org/f2399q
+  id: doi:10.1371/journal.pgen.1003212
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Inherited Variants in Regulatory T Cell Genes and Outcome of Ovarian Cancer
+  authors:
+  - Ellen L. Goode
+  - Melissa DeRycke
+  - Kimberly R. Kalli
+  - Ann L. Oberg
+  - Julie M. Cunningham
+  - Matthew J. Maurer
+  - Brooke L. Fridley
+  - Sebastian M. Armasu
+  - Daniel J. Serie
+  - Priya Ramar
+  - Krista Goergen
+  - Robert A. Vierkant
+  - David N. Rider
+  - Hugues Sicotte
+  - Chen Wang
+  - Boris Winterhoff
+  - Catherine M. Phelan
+  - Joellen M. Schildkraut
+  - Rachel P. Weber
+  - Ed Iversen
+  - Andrew Berchuck
+  - Rebecca Sutphen
+  - Michael J. Birrer
+  - Shalaka Hampras
+  - Leah Preus
+  - Simon A. Gayther
+  - Susan J. Ramus
+  - Nicolas Wentzensen
+  - Hannah P. Yang
+  - Montserrat Garcia-Closas
+  - Honglin Song
+  - Jonathan Tyrer
+  - Paul P. D. Pharoah
+  - Gottfried Konecny
+  - Thomas A. Sellers
+  - Roberta B. Ness
+  - Lara E. Sucheston
+  - Kunle Odunsi
+  - Lynn C. Hartmann
+  - Kirsten B. Moysich
+  - Keith L. Knutson
+  publisher: PLoS ONE
+  date: '2013-01-30'
+  link: https://doi.org/f5jh4c
+  id: doi:10.1371/journal.pone.0053903
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Integrated genomic characterization of endometrial carcinoma
+  authors:
+  - Douglas A. Levine
+  publisher: Nature
+  date: '2013-05-01'
+  link: https://doi.org/f42cnx
+  id: doi:10.1038/nature12113
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Computational analysis of muscular dystrophy sub-types using a novel integrative
+    scheme
+  authors:
+  - Chen Wang
+  - Sook Ha
+  - Jianhua Xuan
+  - Yue Wang
+  - Eric Hoffman
+  publisher: Neurocomputing
+  date: '2012-09-01'
+  link: https://doi.org/gs27gh
+  id: doi:10.1016/j.neucom.2011.08.037
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Detecting aberrant signal transduction pathways from high-throughput data
+    using GIST algorithm
+  authors:
+  - Jinghua Gu
+  - Jianhua Xuan
+  - Chen Wang
+  - Li Chen
+  - Tian-Li Wang
+  - Ie-Ming Shih
+  publisher: 2012 IEEE Symposium on Computational Intelligence in Bioinformatics and
+    Computational Biology (CIBCB)
+  date: '2012-05-01'
+  link: https://doi.org/gs27gj
+  id: doi:10.1109/CIBCB.2012.6217240
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Reconstruction of Transcription Regulatory Networks by Stability-Based Network
+    Component Analysis
+  authors:
+  - Xi Chen
+  - Chen Wang
+  - Ayesha N. Shajahan
+  - Rebecca B. Riggins
+  - Robert Clarke
+  - Jianhua Xuan
+  publisher: Bioinformatics Research and Applications
+  date: '2012-01-01'
+  link: https://doi.org/gs27gk
+  id: doi:10.1007/978-3-642-30191-9_4
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Regulatory component analysis: A semi-blind extraction approach to infer
+    gene regulatory networks with imperfect biological knowledge'
+  authors:
+  - Chen Wang
+  - Jianhua Xuan
+  - Ie-Ming Shih
+  - Robert Clarke
+  - Yue Wang
+  publisher: Signal Processing
+  date: '2012-08-01'
+  link: https://doi.org/b2n5bv
+  id: doi:10.1016/j.sigpro.2011.11.028
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'GIST: A Gibbs sampler to identify intracellular signal transduction pathways'
+  authors:
+  - ' Jinghua Gu'
+  - ' Chen Wang'
+  - ' Le-Ming Shih'
+  - ' Tian-Li Wang'
+  - ' Yue Wang'
+  - R. Clarke
+  - ' Jianhua Xuan'
+  publisher: 2011 Annual International Conference of the IEEE Engineering in Medicine
+    and Biology Society
+  date: '2011-08-01'
+  link: https://doi.org/c74wr5
+  id: doi:10.1109/IEMBS.2011.6090677
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Computational Analysis of Muscular Dystrophy Sub-types Using a Novel Integrative
+    Scheme
+  authors:
+  - Chen Wang
+  - Sook Ha
+  - Yue Wang
+  - Jianhua Xuan
+  - Eric Hoffman
+  publisher: 2010 Ninth International Conference on Machine Learning and Applications
+  date: '2010-12-01'
+  link: https://doi.org/bhqhht
+  id: doi:10.1109/ICMLA.2010.49
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Distinct DNA methylation profiles in ovarian serous neoplasms and their implications
+    in ovarian carcinogenesis
+  authors:
+  - Ie-Ming Shih
+  - Li Chen
+  - Chen C. Wang
+  - Jinghua Gu
+  - Ben Davidson
+  - Leslie Cope
+  - Robert J. Kurman
+  - Jianhua Xuan
+  - Tian-Li Wang
+  publisher: American Journal of Obstetrics and Gynecology
+  date: '2010-12-01'
+  link: https://doi.org/c949z8
+  id: doi:10.1016/j.ajog.2010.08.003
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Knowledge-guided gene ranking by coordinative component analysis
+  authors:
+  - Chen Wang
+  - Jianhua Xuan
+  - Huai Li
+  - Yue Wang
+  - Ming Zhan
+  - Eric P Hoffman
+  - Robert Clarke
+  publisher: BMC Bioinformatics
+  date: '2010-03-30'
+  link: https://doi.org/czkfqm
+  id: doi:10.1186/1471-2105-11-162
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Biomarker identification by knowledge-driven multilevel ICA and motif analysis
+  authors:
+  - Li Chen
+  - Jianhua Xuan
+  - Chen Wang
+  - Yue Wang
+  - Ie Ming Shih
+  - Tian Li Wang
+  - Zhen Zhang
+  - Robert Clarke
+  - Eric P. Hoffman
+  publisher: International Journal of Data Mining and Bioinformatics
+  date: '2009-01-01'
+  link: https://doi.org/fvvm2r
+  id: doi:10.1504/IJDMB.2009.029201
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Integrative Network Component Analysis for Regulatory Network Reconstruction
+  authors:
+  - Chen Wang
+  - Jianhua Xuan
+  - Li Chen
+  - Po Zhao
+  - Yue Wang
+  - Robert Clarke
+  - Eric P. Hoffman
+  publisher: Bioinformatics Research and Applications
+  date: ''
+  link: https://doi.org/fs3bxz
+  id: doi:10.1007/978-3-540-79450-9_19
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Knowledge-guided multi-scale independent component analysis for biomarker
+    identification
+  authors:
+  - Li Chen
+  - Jianhua Xuan
+  - Chen Wang
+  - Ie-Ming Shih
+  - Yue Wang
+  - Zhen Zhang
+  - Eric Hoffman
+  - Robert Clarke
+  publisher: BMC Bioinformatics
+  date: '2008-10-06'
+  link: https://doi.org/bb8hb4
+  id: doi:10.1186/1471-2105-9-416
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Motif-directed network component analysis for regulatory network inference
+  authors:
+  - Chen Wang
+  - Jianhua Xuan
+  - Li Chen
+  - Po Zhao
+  - Yue Wang
+  - Robert Clarke
+  - Eric Hoffman
+  publisher: BMC Bioinformatics
+  date: '2008-02-01'
+  link: https://doi.org/fvpxqp
+  id: doi:10.1186/1471-2105-9-S1-S21
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Web-based parallel corpora for statistical machine translation
+  authors:
+  - Bo Li
+  - Juan Liu
+  - Wenjuan Shi
+  publisher: Sixth International Conference on Machine Learning and Applications (ICMLA
+    2007)
+  date: '2007-12-01'
+  link: https://doi.org/dh663h
+  id: doi:10.1109/ICMLA.2007.24
+  orcid: 0000-0003-2638-3081
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Computational tumor stroma reaction evaluation led to novel prognosis-associated
+    fibrosis and molecular signature discoveries in high-grade serous ovarian carcinoma
+  authors:
+  - Jun Jiang
+  - Burak Tekin
+  - Lin Yuan
+  - Sebastian Armasu
+  - Stacey J. Winham
+  - Ellen L. Goode
+  - Hongfang Liu
+  - Yajue Huang
+  - Ruifeng Guo
+  - Chen Wang
+  publisher: Frontiers in Medicine
+  date: '2022-09-07'
+  link: https://doi.org/gs27gn
+  id: doi:10.3389/fmed.2022.994467
+  type: paper
+  description: Tumor stroma reaction
+  image: https://www.frontiersin.org/files/Articles/994467/fmed-09-994467-HTML-r1/image_m/fmed-09-994467-g001.jpg
+  buttons:
+  - type: website
+    text: Manuscript
+    link: https://pubmed.ncbi.nlm.nih.gov/36160147/
+  - type: source
+    text: Source code
+    link: https://github.com/smujiang/TumorStromaReaction
   plugin: sources.py
   file: sources.yaml

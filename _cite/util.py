@@ -186,49 +186,53 @@ def cite_with_manubot(_id):
     except Exception:
         raise Exception("Couldn't parse Manubot response")
 
-    # new citation with only needed info
-    citation = {}
-
-    # original id
-    citation["id"] = _id
-
     # title
-    citation["title"] = get_safe(manubot, "title", "").strip()
+    title_tmp = get_safe(manubot, "title", "").strip()
+    if "supplemental table" not in title_tmp.lower() \
+            and "supplemental method" not in title_tmp.lower() \
+            and "supplemental figure" not in title_tmp.lower() \
+            and "supplementary table" not in title_tmp.lower() \
+                    and "supplementary method" not in title_tmp.lower() \
+                    and "supplementary figure" not in title_tmp.lower():
+        # new citation with only needed info
+        citation = {}
+        citation["title"] = title_tmp
+        # authors
+        citation["authors"] = []
+        for author in get_safe(manubot, "author", {}):
+            given = get_safe(author, "given", "").strip()
+            family = get_safe(author, "family", "").strip()
+            if given or family:
+                citation["authors"].append(" ".join([given, family]))
 
-    # authors
-    citation["authors"] = []
-    for author in get_safe(manubot, "author", {}):
-        given = get_safe(author, "given", "").strip()
-        family = get_safe(author, "family", "").strip()
-        if given or family:
-            citation["authors"].append(" ".join([given, family]))
+        # publisher
+        container = get_safe(manubot, "container-title", "").strip()
+        collection = get_safe(manubot, "collection-title", "").strip()
+        publisher = get_safe(manubot, "publisher", "").strip()
+        citation["publisher"] = container or publisher or collection or ""
 
-    # publisher
-    container = get_safe(manubot, "container-title", "").strip()
-    collection = get_safe(manubot, "collection-title", "").strip()
-    publisher = get_safe(manubot, "publisher", "").strip()
-    citation["publisher"] = container or publisher or collection or ""
+        # extract date part
+        def date_part(citation, index):
+            try:
+                return citation["issued"]["date-parts"][0][index]
+            except (KeyError, IndexError, TypeError):
+                return ""
 
-    # extract date part
-    def date_part(citation, index):
-        try:
-            return citation["issued"]["date-parts"][0][index]
-        except (KeyError, IndexError, TypeError):
-            return ""
+        # date
+        year = date_part(manubot, 0)
+        if year:
+            # fallbacks for month and day
+            month = date_part(manubot, 1) or "1"
+            day = date_part(manubot, 2) or "1"
+            citation["date"] = format_date(f"{year}-{month}-{day}")
+        else:
+            # if no year, consider date missing data
+            citation["date"] = ""
 
-    # date
-    year = date_part(manubot, 0)
-    if year:
-        # fallbacks for month and day
-        month = date_part(manubot, 1) or "1"
-        day = date_part(manubot, 2) or "1"
-        citation["date"] = format_date(f"{year}-{month}-{day}")
+        # link
+        citation["link"] = get_safe(manubot, "URL", "").strip()
+
+        # return citation data
+        return citation
     else:
-        # if no year, consider date missing data
-        citation["date"] = ""
-
-    # link
-    citation["link"] = get_safe(manubot, "URL", "").strip()
-
-    # return citation data
-    return citation
+        return None

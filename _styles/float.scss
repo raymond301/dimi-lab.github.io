@@ -14,12 +14,12 @@ $wrap: 600px;
 
 .float:not([data-flip]) {
   float: left;
-  margin-right: 40px;
+  margin-right: 20px;
 }
 
 .float[data-flip] {
   float: right;
-  margin-left: 40px;
+  margin-left: 20px;
 }
 
 .float[data-clear] {

@@ -3,16 +3,24 @@
 # team member roles
 
 pi:
-  icon: fa-solid fa-microscope
+  icon: fa-solid fa-graduation-cap
   description: Principal Investigator
 
-postdoc:
-  icon: fa-solid fa-glasses
-  description: Postdoctoral Researcher
+postdoc1:
+  icon: fa-solid fa-graduation-cap
+  description: Research Fellow
+
+postdoc2:
+  icon: fa-solid fa-graduation-cap
+  description: Research Associate
 
 phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
+
+bioinformatician:
+  icon: fa-solid fa-graduation-cap
+  description: Bioinformatician
 
 undergrad:
   icon: fa-solid fa-user-graduate
@@ -21,6 +29,10 @@ undergrad:
 programmer:
   icon: fa-solid fa-code
   description: Programmer
+
+pathologist:
+  icon: fa-solid fa-microscope
+  description: Pathologist
 
 mascot:
   icon: fa-solid fa-dog

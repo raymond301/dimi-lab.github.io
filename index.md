@@ -1,9 +1,9 @@
 ---
 ---
 
-# dimi-lab's Website
+# DIMI-Lab's Website
 
-An engaging 1-3 sentence description of your lab.
+DIMI lab: Data science and Informatics for Multiomics Integration.
 
 {% include section.html %}
 
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="https://www.frontiersin.org/files/Articles/994467/fmed-09-994467-HTML-r1/image_m/fmed-09-994467-g001.jpg"
   link="research"
   title="Our Research"
   text=text

@@ -137,6 +137,8 @@ for index, source in enumerate(sources):
         try:
             # run Manubot and set citation
             citation = cite_with_manubot(_id)
+            if citation is None:
+                continue
 
         # if Manubot cannot cite source
         except Exception as e:

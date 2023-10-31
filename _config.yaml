@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: smujiang
+title: DIMI-Lab
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
@@ -7,12 +7,12 @@ footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@smujiang.com
+  email: Wang.Chen@mayo.edu
   orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: smujiang
-  twitter: smujiang
-  youtube: smujiang
+  google-scholar: https://scholar.google.com/citations?hl=en&user=4irpbaYAAAAJ
+  github: dimi-lab
+  twitter: DIMI-Lab
+  youtube: DIMI-Lab
 
 ### jekyll settings
 

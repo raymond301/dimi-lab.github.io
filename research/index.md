@@ -7,14 +7,19 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Cancer is responsible for millions of deaths worldwide every year. 
+Although significant progress has been achieved in cancer therapy in recent years, 
+many issues remain to be addressed to improve patients' survival. 
+Our research focuses on two aspects towards finding new and efficient therapies.
+
+- Devise and leverage advanced methods to have deeper understanding of tumor micro-environment
+- Fine stratification of patient subtypes for accurate medicine
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Computational tumor stroma reaction evaluation led to novel prognosis-associated fibrosis and molecular signature discoveries in high-grade serous ovarian carcinoma" style="rich" %}
 
 {% include section.html %}
 
