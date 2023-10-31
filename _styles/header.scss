@@ -40,10 +40,12 @@ header a {
 
 .logo {
   height: $logo;
+  border-radius: 50%;
 }
 
 .logo > * {
   height: 100%;
+  border-radius: 50%;
 }
 
 .title {
@@ -151,6 +153,7 @@ header[data-big] {
 
   .logo {
     height: $logo-big;
+    border-radius: 50%;
   }
 
   .title {
