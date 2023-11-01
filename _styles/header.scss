@@ -62,12 +62,12 @@ header a {
 // main title
 .title > *:first-child {
   font-size: var(--large);
+  font-weight: bold;
 }
 
 // subtitle
 .title > *:last-child {
-  opacity: 0.95;
-  font-weight: bold;
+  opacity: 1;
 }
 
 .nav-toggle {
