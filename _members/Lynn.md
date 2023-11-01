@@ -2,6 +2,7 @@
 name: Lynn Langit
 image: images/members/Lynn.png
 role: cloud_expert
+description: Cloud Computation Expert
 links:
   github: langitlynn
 
