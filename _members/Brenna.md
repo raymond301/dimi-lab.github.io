@@ -1,5 +1,5 @@
 ---
-name: Brenna
+name: Brenna C. Novotny
 image: images/members/Brenna.png
 role: bioinformatician
 links:

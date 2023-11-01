@@ -1,5 +1,5 @@
 ---
-name: Raymond
+name: Raymond M. Moore
 image: images/members/Raymond.png
 role: bioinformatician
 links:

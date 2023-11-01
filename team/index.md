@@ -15,14 +15,14 @@ We are a cross-disciplinary team with diverse background. Click on the portrait 
 {% include list.html data="members" component="portrait" filters="role: postdoc2" %}
 {% include list.html data="members" component="portrait" filters="role: bioinformatician" %}
 {% include list.html data="members" component="portrait" filters="role: pathologist" %}
-{% include list.html data="members" component="portrait" filters="role: programmer" %}
+{% include list.html data="members" component="portrait" filters="role: cloud_expert" %}
 
 # {% include icon.html icon="fa-solid fa-users" %} Team Events
 {% include section.html %}
-Visiting Argonne National Laboratory. Chicago, IL.
+Visiting Argonne National Laboratory. Chicago, IL. 
 {% include figure.html image="images/events/Argonne.png" %}
 Social meeting. Rochester, MN.
 {% include figure.html image="images/events/social1.jpg" %}
-Visiting wet labs. Rochester, MN.
+Wet lab tour. Rochester, MN.
 {% include figure.html image="images/events/wet_lab.png" %}
 

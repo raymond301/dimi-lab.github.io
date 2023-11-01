@@ -1,5 +1,5 @@
 ---
-name: Ruifeng Guo
+name: Ray Guo
 image: images/members/Ray.png
 role: pathologist
 group: alum

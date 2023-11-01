@@ -1,7 +1,7 @@
 ---
 name: Lynn Langit
 image: images/members/Lynn.png
-role: programmer
+role: cloud_expert
 links:
   github: langitlynn
 
