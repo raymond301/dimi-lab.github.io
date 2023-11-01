@@ -16,7 +16,7 @@ nav:
 
 ## Featured
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include list.html component="card" data="projects" filters="group: featured" style="small" %}
 
 {% include section.html %}
 
