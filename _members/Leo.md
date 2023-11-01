@@ -1,7 +1,7 @@
 ---
 name: Leo Liu
 image: images/members/Leo.png
-description: Lead Programmer
+description: Bioinformatician
 role: bioinformatician
 links:
   google-scholar: 
