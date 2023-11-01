@@ -5,7 +5,9 @@ nav:
   tooltip: Email, address, and location
 ---
 
+{% include section.html %}
 # {% include icon.html icon="fa-regular fa-user" %}Join us
+
 As a cross-disciplinary team, we are always looking for talented future colleagues at various levels and education background. 
 Feel free to contact any of our group members if you're interested in joining us. 
 We are excited to hear from you, and learn more about how we can work together. 
@@ -46,7 +48,7 @@ Please send an inquiry to Dr. Jun Jiang if you're interested in.
 %}
 
 
-
+{% include section.html %}
 # {% include icon.html icon="fa-regular fa-envelope" %} Direction
 We are part of the Department of Quantitative Health Sciences at Mayo Clinic. The lab is located on the Rochester downtown campus on the 7th floor of the Harwick building. Card access is required for entry to building.
 
