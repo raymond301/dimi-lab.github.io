@@ -1,13 +1,10 @@
 ---
-name: Chen Wang
-image: images/members/WangChen.png
-role: pi
-aliases:
-  - C. Wang
-  - Chen Wang
+name: Lynn Langit
+image: images/members/Lynn.png
+role: programmer
 links:
-  google-scholar: 4irpbaYAAAAJ&hl=en
-  github: DIMI-LAB
+  github: langitlynn
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

@@ -3,7 +3,8 @@ name: Raymond
 image: images/members/Raymond.png
 role: bioinformatician
 links:
-  github: https://janesmith.com
+  github: raymond301
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

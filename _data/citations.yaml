@@ -1910,6 +1910,306 @@
   orcid: 0000-0003-2638-3081
   plugin: orcid.py
   file: orcid.yaml
+- title: Image-to-image translation for automatic ink removal in whole slide images
+  authors:
+  - Jun Jiang
+  - Naresh Prodduturi
+  - David Chen
+  - Qiangqiang Gu
+  - Thomas Flotte
+  - Qianjin Feng
+  - Steven Hart
+  publisher: Journal of Medical Imaging
+  date: '2020-10-16'
+  link: https://doi.org/gs27wf
+  id: doi:10.1117/1.JMI.7.5.057502
+  orcid: 0000-0003-1147-3666
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Automatic Nasopharyngeal Carcinoma Segmentation Using Fully Convolutional
+    Networks with Auxiliary Paths on Dual-Modality PET-CT Images
+  authors:
+  - Lijun Zhao
+  - Zixiao Lu
+  - Jun Jiang
+  - Yujia Zhou
+  - Yi Wu
+  - Qianjin Feng
+  publisher: Journal of Digital Imaging
+  date: '2019-02-04'
+  link: https://doi.org/ggb3xc
+  id: doi:10.1007/s10278-018-00173-0
+  orcid: 0000-0003-1147-3666
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-85094353479
+  title: Cross-lingual data transformation and combination for text classification
+  publisher: arXiv
+  date: '2022-06-07'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85094353479&partnerID=MN8TOARS
+  orcid: 0000-0003-1147-3666
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Hippocampus Segmentation Based on Iterative Local Linear Mapping With Representative
+    and Local Structure-Preserved Feature Embedding
+  authors:
+  - Shumao Pang
+  - Qianjin Feng
+  - Zhentai Lu
+  - Jun Jiang
+  - Lei Zhao
+  - Liyan Lin
+  - Xueli Li
+  - Tao Lian
+  - Meiyan Huang
+  - Wei Yang
+  publisher: IEEE Transactions on Medical Imaging
+  date: '2019-10-01'
+  link: https://doi.org/gs27wg
+  id: doi:10.1109/TMI.2019.2906727
+  orcid: 0000-0003-1147-3666
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Robust Hierarchical Density Estimation and Regression for Re-stained Histological
+    Whole Slide Image Co-registration
+  authors:
+  - Jun Jiang
+  - Nicholas B. Larson
+  - Naresh Prodduturi
+  - Thomas J. Flotte
+  - Steven N. Hart
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-03-06'
+  link: https://doi.org/gk2rzs
+  id: doi:10.1101/565564
+  orcid: 0000-0003-1147-3666
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Robust hierarchical density estimation and regression for re-stained histological
+    whole slide image co-registration
+  authors:
+  - Jun Jiang
+  - Nicholas B. Larson
+  - Naresh Prodduturi
+  - Thomas J. Flotte
+  - Steven N. Hart
+  publisher: PLOS ONE
+  date: '2019-07-24'
+  link: https://doi.org/gs27wk
+  id: doi:10.1371/journal.pone.0220074
+  orcid: 0000-0003-1147-3666
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Robustness versus disease differentiation when varying parameter settings
+    in radiomics features: application to nasopharyngeal PET/CT'
+  authors:
+  - Wenbing Lv
+  - Qingyu Yuan
+  - Quanshi Wang
+  - Jianhua Ma
+  - Jun Jiang
+  - Wei Yang
+  - Qianjin Feng
+  - Wufan Chen
+  - Arman Rahmim
+  - Lijun Lu
+  publisher: European Radiology
+  date: '2018-03-08'
+  link: https://doi.org/gs27wm
+  id: doi:10.1007/s00330-018-5343-0
+  orcid: 0000-0003-1147-3666
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Hippocampus Segmentation Based on Local Linear Mapping
+  authors:
+  - Shumao Pang
+  - Jun Jiang
+  - Zhentai Lu
+  - Xueli Li
+  - Wei Yang
+  - Meiyan Huang
+  - Yu Zhang
+  - Yanqiu Feng
+  - Wenhua Huang
+  - Qianjin Feng
+  publisher: Scientific Reports
+  date: '2017-04-03'
+  link: https://doi.org/f9zj3c
+  id: doi:10.1038/srep45501
+  orcid: 0000-0003-1147-3666
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Retrieval of Brain Tumors by Adaptive Spatial Pooling and Fisher Vector Representation
+  authors:
+  - Jun Cheng
+  - Wei Yang
+  - Meiyan Huang
+  - Wei Huang
+  - Jun Jiang
+  - Yujia Zhou
+  - Ru Yang
+  - Jie Zhao
+  - Yanqiu Feng
+  - Qianjin Feng
+  - Wufan Chen
+  publisher: PLOS ONE
+  date: '2016-06-06'
+  link: https://doi.org/gbq2bv
+  id: doi:10.1371/journal.pone.0157112
+  orcid: 0000-0003-1147-3666
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Robustness of Radiomic Features in [11C]Choline and [18F]FDG PET/CT Imaging
+    of Nasopharyngeal Carcinoma: Impact of Segmentation and Discretization'
+  authors:
+  - Lijun Lu
+  - Wenbing Lv
+  - Jun Jiang
+  - Jianhua Ma
+  - Qianjin Feng
+  - Arman Rahmim
+  - Wufan Chen
+  publisher: Molecular Imaging and Biology
+  date: '2016-06-20'
+  link: https://doi.org/gs27xf
+  id: doi:10.1007/s11307-016-0973-6
+  orcid: 0000-0003-1147-3666
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Variability of Gross Tumor Volume in Nasopharyngeal Carcinoma Using 11C-Choline
+    and 18F-FDG PET/CT
+  authors:
+  - Jun Jiang
+  - Hubing Wu
+  - Meiyan Huang
+  - Yao Wu
+  - Quanshi Wang
+  - Jianqi Zhao
+  - Wei Yang
+  - Wufan Chen
+  - Qianjin Feng
+  publisher: PLOS ONE
+  date: '2015-07-10'
+  link: https://doi.org/gs27xg
+  id: doi:10.1371/journal.pone.0131801
+  orcid: 0000-0003-1147-3666
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Brain extraction based on locally linear representation-based classification
+  authors:
+  - Meiyan Huang
+  - Wei Yang
+  - Jun Jiang
+  - Yao Wu
+  - Yu Zhang
+  - Wufan Chen
+  - Qianjin Feng
+  publisher: NeuroImage
+  date: '2014-05-01'
+  link: https://doi.org/f5295w
+  id: doi:10.1016/j.neuroimage.2014.01.059
+  orcid: 0000-0003-1147-3666
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Brain Tumor Segmentation Based on Local Independent Projection-Based Classification
+  authors:
+  - Meiyan Huang
+  - Wei Yang
+  - Yao Wu
+  - Jun Jiang
+  - Wufan Chen
+  - Qianjin Feng
+  publisher: IEEE Transactions on Biomedical Engineering
+  date: '2014-10-01'
+  link: https://doi.org/f6tbst
+  id: doi:10.1109/TBME.2014.2325410
+  orcid: 0000-0003-1147-3666
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Content-Based Image Retrieval Using Spatial Layout Information in Brain Tumor
+    T1-Weighted Contrast-Enhanced MR Images
+  authors:
+  - Meiyan Huang
+  - Wei Yang
+  - Yao Wu
+  - Jun Jiang
+  - Yang Gao
+  - Yang Chen
+  - Qianjin Feng
+  - Wufan Chen
+  - Zhentai Lu
+  publisher: PLoS ONE
+  date: '2014-07-16'
+  link: https://doi.org/f6hmhp
+  id: doi:10.1371/journal.pone.0102754
+  orcid: 0000-0003-1147-3666
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Multimodal Brain-Tumor Segmentation Based on Dirichlet Process Mixture Model
+    with Anisotropic Diffusion and Markov Random Field Prior
+  authors:
+  - Yisu Lu
+  - Jun Jiang
+  - Wei Yang
+  - Qianjin Feng
+  - Wufan Chen
+  publisher: Computational and Mathematical Methods in Medicine
+  date: '2014-01-01'
+  link: https://doi.org/gb964z
+  id: doi:10.1155/2014/717206
+  orcid: 0000-0003-1147-3666
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Prostate Segmentation Based on Variant Scale Patch and Local Independent
+    Projection
+  authors:
+  - Yao Wu
+  - Guoqing Liu
+  - Meiyan Huang
+  - Jiacheng Guo
+  - Jun Jiang
+  - Wei Yang
+  - Wufan Chen
+  - Qianjin Feng
+  publisher: IEEE Transactions on Medical Imaging
+  date: '2014-06-01'
+  link: https://doi.org/gs27xk
+  id: doi:10.1109/TMI.2014.2308901
+  orcid: 0000-0003-1147-3666
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 3D brain tumor segmentation in multimodal MR images based on learning population-
+    and patient-specific feature sets
+  authors:
+  - Jun Jiang
+  - Yao Wu
+  - Meiyan Huang
+  - Wei Yang
+  - Wufan Chen
+  - Qianjin Feng
+  publisher: Computerized Medical Imaging and Graphics
+  date: '2013-10-01'
+  link: https://doi.org/gs27xn
+  id: doi:10.1016/j.compmedimag.2013.05.007
+  orcid: 0000-0003-1147-3666
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Semi-automatic Segmentation of Brain Tumors Using Population and Individual
+    Information
+  authors:
+  - Yao Wu
+  - Wei Yang
+  - Jun Jiang
+  - Shuanqian Li
+  - Qianjin Feng
+  - Wufan Chen
+  publisher: Journal of Digital Imaging
+  date: '2013-01-15'
+  link: https://doi.org/gs27xp
+  id: doi:10.1007/s10278-012-9568-1
+  orcid: 0000-0003-1147-3666
+  plugin: orcid.py
+  file: orcid.yaml
 - title: Computational tumor stroma reaction evaluation led to novel prognosis-associated
     fibrosis and molecular signature discoveries in high-grade serous ovarian carcinoma
   authors:

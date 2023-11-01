@@ -16,6 +16,7 @@ We are a cross-disciplinary team with diverse background. Click on the portrait 
 {% include list.html data="members" component="portrait" filters="role: bioinformatician" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 {% include list.html data="members" component="portrait" filters="role: pathologist" %}
+{% include list.html data="members" component="portrait" filters="role: programmer" %}
 
 # {% include icon.html icon="fa-solid fa-users" %} Team Events
 {% include section.html %}
