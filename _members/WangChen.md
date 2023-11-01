@@ -9,7 +9,6 @@ links:
   google-scholar: 4irpbaYAAAAJ&hl=en
   github: DIMI-LAB
 ---
-[11:28 AM] Wang, Chen, Ph.D.
 Dr. Chen Wang had his B.S. and M.S. degrees in Electrical Engineering, at University of Science and Technology of China. 
 After he obtained his Ph.D. in Electrical Engineering at Virginia Tech, Dr. Wang joined Mayo Clinic in 2011 as a Research Associate 
 in the Department of Health Sciences Research. He was appointed in 2015 as Assistant Professor of Biomedical Informatics and currently 
