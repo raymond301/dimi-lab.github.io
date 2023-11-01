@@ -1,10 +1,10 @@
 ---
 name: Brenna
 image: images/members/Brenna.png
-role: phd
+role: bioinformatician
 links:
   google-scholar: https://janesmith.com
-  github: 
+  github: bnovotny
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

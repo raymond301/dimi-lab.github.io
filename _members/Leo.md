@@ -1,9 +1,10 @@
 ---
-name: Sarah Johnson
-image: images/photo.jpg
+name: Leo Liu
+image: images/members/Leo.png
 description: Lead Programmer
+role: bioinformatician
 links:
-  google-scholar: https://janesmith.com
+  google-scholar: 
   github: 
 ---
 
