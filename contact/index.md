@@ -12,7 +12,7 @@ As a cross-disciplinary team, we are always looking for talented future colleagu
 Feel free to contact any of our group members if you're interested in joining us. 
 We are excited to hear from you, and learn more about how we can work together. 
 
-## {% include icon.html icon="fa-regular fa-user" %} OPEN POSITIONS
+## OPEN POSITIONS
 
 ### Postdoctoral Scholars
 We will be recruiting Research Fellow for a start date of May 2023. Funding for various postdoctoral opportunities is available on a rolling basis. 
