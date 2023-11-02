@@ -1,5 +1,5 @@
 ---
-name: Leo Liu
+name: Yuanhang (Leo) Liu
 image: images/members/Leo.png
 description: Bioinformatician
 role: bioinformatician

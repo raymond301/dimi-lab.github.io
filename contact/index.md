@@ -26,7 +26,7 @@ or data mining techniques, is required. Demonstrated application of several prob
 and analytical tools and methodologies (e.g. data analysis, data profiling, modeling, etc.) required. 
 Requires strong analytical skills and the ability to identify and recommend solutions, advanced computer application skills and a commitment to customer service. 
 Experience with data analysis, quality, and profiling; including data exploration tools including but not limited to Python, Tensorflow, Pytorch, QuPath. 
-Please send an inquiry to Dr. Jun Jiang if you're interested in.
+Please send an inquiry to Dr. Jiang Jun if you're interested in.
 
 {%
   include button.html
