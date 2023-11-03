@@ -15,17 +15,16 @@ We are excited to hear from you, and learn more about how we can work together.
 ## OPEN POSITIONS
 
 ### Postdoctoral Scholars
-We will be recruiting Research Fellow for a start date of May 2023. Funding for various postdoctoral opportunities is available on a rolling basis. 
+We are recruiting Research Fellow all year round. Funding for various postdoctoral opportunities is available on a rolling basis. 
 Current funding is available for projects related to spatial omics, digital pathology and drug response prediction. 
 If you are interested our research, you are encouraged to send an inquiry and CV to Dr. Wang Chen.
 
 ### Research Technician
-Bachelor's degree in Computer Science, Engineering or Bioinformatics from an accredited University or College; OR an Associate’s degree with 2 years of experience.
-Demonstrated ability to analyze and profile data as a means to address various bioinformatics problems through leveraging advanced data modeling, source system databases, 
-or data mining techniques, is required. Demonstrated application of several problem-solving methodologies, planning techniques, continuous improvement methods, 
-and analytical tools and methodologies (e.g. data analysis, data profiling, modeling, etc.) required. 
-Requires strong analytical skills and the ability to identify and recommend solutions, advanced computer application skills and a commitment to customer service. 
-Experience with data analysis, quality, and profiling; including data exploration tools including but not limited to Python, Tensorflow, Pytorch, QuPath. 
+- Bachelor's degree in Computer Science, Engineering or Bioinformatics from an accredited University or College, or an Associate’s degree with 2 years of experience.
+- Demonstrated ability to analyze and profile data as a means to address various bioinformatics problems through leveraging advanced data modeling, source system databases, 
+or data mining techniques
+- Experience with data analysis, quality, and profiling, including data exploration tools including but not limited to Python, Tensorflow, Pytorch, QuPath. 
+
 Please send an inquiry to Dr. Jiang Jun if you're interested in.
 
 {%
