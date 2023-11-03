@@ -6,7 +6,7 @@
   description: An ovarian tissue micro-array (TMA) dataset, consists of multi-modality of images and gene profiles.
   repo:
   tags:
-    - resource
+    - resource, dataset
 
 - title: Cool Dataset
   subtitle: a subtitle
