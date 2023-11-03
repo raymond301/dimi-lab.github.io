@@ -1,9 +1,9 @@
-- title: Multiplex Ovarian TMA
-  subtitle: multi-modality ovarian images
+- title: Ovarian TMA Dataset
+  subtitle: multi-modality ovarian data
   group: featured
   image: images/projects/ov_tma_small.png
   link:
-  description: An ovarian tissue micro-array (TMA) dataset, consists of multi-modality of images and gene profiles. 
+  description: An ovarian tissue micro-array (TMA) dataset, consists of multi-modality of images and gene profiles.
   repo:
   tags:
     - resource
@@ -28,15 +28,15 @@
   tags:
     - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Multiplex Image QC
+  subtitle: DAPI referenced quality checking
+  image: images/projects/DAPI_QC.png
+  link: https://github.com/smujiang/MxIF_DAPI_ref_QC
+  description: This tool has been developed to generate metrics and report the image quality coming from he Cytiva/Leica INCEll MxIF Microscope.
+  repo:
   tags:
-    - resource
-    - publication
+    - tool
+    - quality checking
 
 - title: Cool Web App
   subtitle: a subtitle
