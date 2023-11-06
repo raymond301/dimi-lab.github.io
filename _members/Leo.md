@@ -1,9 +1,10 @@
 ---
-name: Sarah Johnson
-image: images/photo.jpg
-description: Lead Programmer
+name: Yuanhang (Leo) Liu
+image: images/members/Leo.png
+description: Bioinformatician
+role: bioinformatician
 links:
-  google-scholar: https://janesmith.com
+  google-scholar: 
   github: 
 ---
 

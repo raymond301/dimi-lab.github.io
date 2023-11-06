@@ -1,16 +1,15 @@
 ---
-name: Brenna
+name: Brenna C. Novotny
 image: images/members/Brenna.png
-role: phd
+role: bioinformatician
 links:
-  google-scholar: https://janesmith.com
-  github: 
+  google-scholar: HvEAziAAAAAJ
+  github: bnovotny
+  linkedin: brenna-novotny
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Brenna Novotny joined Mayo Clinic in 2022 as a research support bioinformatician. 
+Brenna’s current work involves cell type classification and spatial analysis of single-cell imaging data. 
+She has experience across multiple domains of high-throughput “omic” data analysis, including single-cell and bulk RNA sequencing, 
+metabolomics, and proteomics. She received her B.S. in Genomics and Molecular Genetics from Michigan State University and her M.S. in
+Bioinformatics from Grand Valley State University.

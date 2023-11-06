@@ -1,8 +1,8 @@
 ---
 ---
 
-$logo-big: 80px;
-$logo: 40px;
+$logo-big: 120px;
+$logo: 60px;
 $big-padding: 100px;
 $collapse: 700px;
 $sticky: true;
@@ -62,12 +62,12 @@ header a {
 // main title
 .title > *:first-child {
   font-size: var(--large);
+  font-weight: bold;
 }
 
 // subtitle
 .title > *:last-child {
-  opacity: 0.95;
-  font-weight: bold;
+  opacity: 1;
 }
 
 .nav-toggle {
@@ -140,7 +140,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 40px 20px;
+  padding: 25px 20px;
 
   @if $sticky {
     top: unset;
